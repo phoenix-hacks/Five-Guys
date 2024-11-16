@@ -1,0 +1,13 @@
+
+img {
+    width: 6vw;
+    padding: 3vh ;
+    border-radius: 50%;
+}
+
+h2 {
+    margin: 0;
+    padding:0 1rem;
+    color: white;
+    text-align: left;
+}
