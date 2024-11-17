@@ -1,13 +1,21 @@
-
 img {
     width: 6vw;
-    padding: 3vh ;
+    padding: 3vh;
     border-radius: 50%;
+    transition: transform 0.3s ease;
+}
+
+img:hover {
+    transform: scale(1.1);
 }
 
 h2 {
     margin: 0;
-    padding:0 1rem;
+    padding: 0 1rem;
     color: white;
     text-align: left;
+}
+
+.heading-container {
+    align-items: center; 
 }
